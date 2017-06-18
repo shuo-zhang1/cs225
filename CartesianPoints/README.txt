@@ -1,0 +1,1 @@
+Given a finite set of n = 0 points in the Cartesian (2D) plane, find the minimum and maximum distances between all pairs of points. That is, find the two points that are closest to each other and two points that are farthest from each other. Points in the Cartesian plane are represented by ordered pairs (x, y).
