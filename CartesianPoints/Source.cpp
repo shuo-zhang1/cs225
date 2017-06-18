@@ -1,7 +1,3 @@
-//SHUO ZHANG 
-//Date Started: 6/18/2017 
-//Date Submitted: 6/18/2017
-
 #include <iostream>
 #include <fstream>
 #include <string>
