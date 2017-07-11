@@ -1,0 +1,3 @@
+User implement a singly-linked list of integers with a header node that keeps the list sorted in ascending order and without duplicates.
+
+Abstractly, a sorted list without duplicated and in ascending order is a sequence <A0, A1,...,Aa-1>, such that A0, <A1<...<Aa-1. Users are to concretely represent an abstract list as a list object whomst data members are a pointer to an IntNode and an int that represents the length of the sequence. An IntNode of structure that has a data value and a pointer to another IntNode or the nullptr.
